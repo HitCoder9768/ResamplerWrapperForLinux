@@ -8,7 +8,7 @@ Designed for usage with OpenUtau but should also work with UTSU.
 - WINE
 
 ## Usage
-Download the executable from [here]() and run it as an executable. EG
+Download the executable from [here](https://github.com/HitCoder9768/ResamplerWrapperForLinux/releases/download/0.1/LinuxResamplerWrapper) and run it as an executable. EG
 ```
 ./LinuxResamplerWrapper
 ```
